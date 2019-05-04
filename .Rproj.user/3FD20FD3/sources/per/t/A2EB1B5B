@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556977553482.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A2EB1B5B",
+    "lastKnownWriteTime" : 1556977388,
+    "last_content_update" : 1556977553482,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CA94C6A9",
+        "caption" : "med",
+        "contentUrl" : "grid_resource/gridviewer.html?env=_rs_no_env&obj=med&cache_key=CA94C6A9",
+        "displayedObservations" : 1,
+        "environment" : "_rs_no_env",
+        "expression" : "med",
+        "object" : "med",
+        "preview" : 0,
+        "totalObservations" : 1,
+        "variables" : 4
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

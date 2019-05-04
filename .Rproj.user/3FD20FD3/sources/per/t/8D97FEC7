@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556976379940.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1518422943",
+    "id" : "8D97FEC7",
+    "lastKnownWriteTime" : 1556977388,
+    "last_content_update" : 1556977388060,
+    "path" : "~/pharmacy2/pharm.R",
+    "project_path" : "pharm.R",
+    "properties" : {
+        "cursorPosition" : "173,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "140"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
